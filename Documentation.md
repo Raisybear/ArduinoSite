@@ -16,7 +16,7 @@ Das Projekt Arduino Site bietet dem User die Möglichkiet einen Arduino zu schre
 | US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                                                                |
 | ---- | --------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Muss            | Funktional    | Als User will ich 2 Spalten haben auf der Website, eine mit Code und eine andere mit einem virtuellen Arduino Modell, um Code und Bausteine zu trennen.     |
-| 2    | Muss            | Funktional    |      |
+| 2    | Muss            | Funktional    | Als User will ich      |
 | 3    | Muss            | Funktional    |      |
 | 4    | Muss            | Funktional    |      |
 | 5    | Muss            | Funktional    |      |
