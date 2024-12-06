@@ -4,7 +4,9 @@
 | Datum | Version | Zusammenfassung                                                                                                                          |
 | ----- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 |   15.11.2024    | 0.0.0   | Die Informieren Phase wurde abgeschlossen und nächstes Mal beginne Ich mit der Planungsphase |
-|   .11.2024    | 0.0.0   | |
+|   22.11.2024    | 0.0.0   | Die Planungsphase wurde abgeschlossen, nächstes Mal beginne ich mit der Implementierung|
+|   29.11.2024    | 0.0.0   | Krankheit, keine Arbeit konnte erledigt werden|
+|   06.12.2024    | 0.0.0   | Weiteres Informieren und Teils auswählen der einzelnen Komponenten, Informieren Phase war zuvor zu kurz.|
 
 
 ## 1 Informieren
@@ -16,11 +18,11 @@ Das Projekt Arduino Site bietet dem User die Möglichkiet einen Arduino zu schre
 | US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                                                                |
 | ---- | --------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Muss            | Funktional    | Als User will ich 2 Spalten haben auf der Website, eine mit Code und eine andere mit einem virtuellen Arduino Modell, um Code und Bausteine zu trennen.     |
-| 2    | Muss            | Funktional    | Als User will ich      |
-| 3    | Muss            | Funktional    |      |
-| 4    | Muss            | Funktional    |      |
-| 5    | Muss            | Funktional    |      |
-| 6    | Muss            | Funktional    |      |
+| 2    | Muss            | Funktional    | Als User will ich den Code bearbeiten können, um den Input für das Modell zu ändern     |
+| 3    | Muss            | Funktional    | Als user will ich Bausteine im Arduino Modell hinzufügen können, um ein Model zu entwickeln    |
+| 4    | Muss            | Funktional    | Als user will ich Bausteine im Arduino Modell löschen können, um ein Model zu entwickeln     |
+| 5    | Muss            | Funktional    | Als user will ich Bausteine im Arduino Modell bewegen können, um ein Model zu entwickeln     |
+| 6    | Muss            | Funktional    | Als user will ich Bausteine im Arduino Modell verbinden können, um ein Model zu entwickeln     |
 | 7    | Muss            | Funktional    |      |
 | 8    | Muss            | Funktional    |      |
 | 9    | Muss            | Funktional    |      |
